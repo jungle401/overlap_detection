@@ -7,8 +7,6 @@
 #include <detector.hpp>
 #include <anchor_map.hpp>
 
-/* #include <old_detect.hpp> */
-
 int main(int argc, char** argv) { 
   auto timer = Timer();
   timer.start("Total");
