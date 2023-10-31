@@ -20,7 +20,7 @@ The parameter `sequencing_depth` is set to manditory for evaluating false overla
 
 The output file would be in `.ovl` format: (specific to this project)
 ```
-read1_id  read2_id  read1_start  read1_end  read2_start  read2_end
+[read1_id  read2_id  read1_start  read1_end  read2_start  read2_end]
 ```
 
 
