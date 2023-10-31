@@ -22,3 +22,8 @@ The output file would be in `.ovl` format: (specific to this project)
 ```
 read1_id  read2_id  read1_start  read1_end  read2_start  read2_end
 ```
+
+This tool bears high precision among the other tools, and the significance is highlighted by species with higher proportion of repeats.
+<img width="769" alt="截圖 2023-10-31 上午11 10 10" src="https://github.com/jungle401/overlap_detection/assets/111668998/e710e773-6353-4c14-a62a-1ae5d2cb8e78">
+
+
