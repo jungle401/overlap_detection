@@ -1,6 +1,12 @@
 # overlap_detection
 An overlap detection specific to detecting overlaps among PacBio long reads, which have high error rate but long sequencing length. The longer sequencing length is beneficial for detecting false alignment or interference caused by repeats. Here, this overlap detection tool is able to distinguish false alignments, which may contribute to particular downstream analyses that value the precision of alignments, such as variant calling, error detection, etc.
 
+
+Requirments:
+- A Linux based operating system.
+- g++ (C++17)
+- Boost C++ 1.73.0
+
 Install:
 ```
 git clone git@github.com:jungle401/overlap_detection.git
